@@ -4,6 +4,9 @@
 
 A Swift implementation of Pong Wars with SpriteKit inspired on the version Koen van Gilst made (https://github.com/vnglst/pong-wars) made as a fun Sunday afternoon project.
 
+## Video
+https://github.com/frederik-jacques/ios-pongwars/blob/406df2a5efb9a42f7d395bf8bd03b8c90d3e1ddc/pongwars_readme.mp4
+
 ## Adjustments to original version
 If you want to intervene with the eternal war between light & dark, you can tap on the ball and apply some force to it.
 
